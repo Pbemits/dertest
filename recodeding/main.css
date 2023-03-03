@@ -27,6 +27,7 @@ nav ul li a {
     text-decoration: none;
     padding-left: 25px;
     padding-right: 40px;
+    border: 0;
 }
 .li-menu {
     margin-left: -12px;
